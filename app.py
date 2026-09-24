@@ -10,6 +10,6 @@ def generate_report(course_name, student_count):
 if __name__ == "__main__":
    
     COURSE = "DevOps Engineering"
-    STUDENT_COUNT = 45 
+    STUDENT_COUNT = 60 
     
     generate_report(COURSE, STUDENT_COUNT)
